@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ddf7d74-e37e-419b-aa3e-7cbc591d939b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HOMEshop/com/racic/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOMEshop/com/racic/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HOMEshop/com/racic/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOMEshop/com/racic/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HOMEshop/com/racic/homeshop/Bill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOMEshop/com/racic/homeshop/Bill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/HOMEshop/com/racic/homeshop/BillTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/HOMEshop/com/racic/homeshop/BillTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/food/Aliment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/food/Four.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/food/Mainfood.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/food/Resistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/food/Soufflerie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/garage/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/garage/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/Bill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/Delivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/DirectDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/ExpressDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/FileWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/Fridge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/NoProductInBillException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/RelayDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/TakeAwayDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/Television.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/homeshop/Writer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/paris/Bus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/paris/MoyenDeLocomotion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/paris/Parisien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/racic/paris/Taxi.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,14 +27,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="5025" />
-          <entry key="txt" value="8" />
+          <entry key="txt" value="53" />
           <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="5025" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="53" />
           <entry key="XML" value="11" />
         </counts>
       </usages-collector>
@@ -140,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state relative-caret-position="115">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -249,8 +218,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-55" />
-    <option name="y" value="429" />
+    <option name="x" value="-134" />
+    <option name="y" value="62" />
     <option name="width" value="1379" />
     <option name="height" value="712" />
   </component>
@@ -272,16 +241,6 @@
             <path>
               <item name="HOMEshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="p3" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HOMEshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="p3" type="462c0819:PsiDirectoryNode" />
-              <item name=".metadata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HOMEshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="p3" type="462c0819:PsiDirectoryNode" />
               <item name=".recommenders" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -293,6 +252,27 @@
               <item name="HOMEshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="p3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HOMEshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HOMEshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="racic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HOMEshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="racic" type="462c0819:PsiDirectoryNode" />
+              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HOMEshop" type="b2602c69:ProjectViewProjectNode" />
@@ -313,7 +293,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Vita/Documents/OC/p3/src/com/racic/homeshop/NoProductInBillException.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541516997698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541517120846" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
@@ -461,7 +441,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541496608852</updated>
-      <workItem from="1541496615020" duration="17741000" />
+      <workItem from="1541496615020" duration="17862000" />
     </task>
     <task id="LOCAL-00001" summary="heritage">
       <created>1541503371320</created>
@@ -498,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541514673666</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="convert to maven project + pom xml">
+      <created>1541517026489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1541517026490</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -534,10 +521,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17741000" />
+    <option name="totallyTimeSpent" value="17862000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-55" y="429" width="1379" height="712" extended-state="0" />
+    <frame x="387" y="105" width="1379" height="712" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -610,7 +597,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="heritage" />
-    <option name="LAST_COMMIT_MESSAGE" value="heritage" />
+    <MESSAGE value="convert to maven project + pom xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="convert to maven project + pom xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1013,8 +1001,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="115">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
