@@ -7,6 +7,14 @@ public class Four {
     private Resistance resistance;
     private Soufflerie soufflerie;
 
+    public void cuire1(int temperature, int duree) {
+        if (temperature <40 || temperature >250)
+            throw new IllegalArgumentException("La T du four doit etre comprise entre 40-250 Degree C");
+        if (duree <= 0)
+            throw new IllegalArgumentException("La duree doit etre positive");
+
+    }
+
     public void cuire() {
         System.out.println("Je cuis un aliment");
         System.out.println("avec ma capacité de " + capacite + " litres");

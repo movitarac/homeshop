@@ -6,6 +6,7 @@ public class Mainfood {
         Four petitFour = new Four();
         petitFour.setCapacite(30);
         petitFour.setPuissance(180);
+        petitFour.cuire1(30,15);
 
         Four grandFour = new Four();
         grandFour.setCapacite(55);
