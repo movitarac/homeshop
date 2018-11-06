@@ -18,7 +18,7 @@ public class Main {
         car1.getDoor();
         */
 
-        List<List<String>> sentences = new ArrayList<List<String>>();
+        //List<List<String>> sentences = new ArrayList<List<String>>();
 
         Product cafe1 = new Product("Philips HD123","senseo quadrante",79.90);
         Television tv1 = new Television("TV Samsung 123","Smart TV LED", 599,49,"LED");
