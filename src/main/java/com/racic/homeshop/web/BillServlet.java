@@ -1,6 +1,7 @@
 package com.racic.homeshop.web;
 
 import com.racic.homeshop.*;
+import com.racic.homeshop.dao.ProductDAO;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
@@ -24,12 +25,14 @@ public class BillServlet extends HttpServlet {
     public void init() throws ServletException {
         //super.init();
 
-        Product cafe1 = new Product("Philips HD123","senseo quadrante",79.90);
+        /*Product cafe1 = new Product("Philips HD123","senseo quadrante",79.90);
         Television tv1 = new Television("TV Samsung 123","Smart TV LED", 599,49,"LED");
         Fridge fridge1 = new Fridge("BEKO TS2", "BEKO CLasse A+",199,130,false);
         products.add(cafe1);
         products.add(tv1);
         products.add(fridge1);
+        */
+        products = new ProductDAO().getAll();
     }
 
     @Override
