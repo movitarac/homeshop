@@ -8,6 +8,6 @@ public class DirectDelivery implements Delivery{
 
     @Override
     public String getInfo() {
-        return "Livraison a domicile" + getPrice();
+        return "Livraison a domicile " + getPrice();
     }
 }
